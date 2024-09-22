@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@neutralinojs/lib':
+        specifier: ^5.3.0
+        version: 5.3.0
+
+packages:
+
+  '@neutralinojs/lib@5.3.0':
+    resolution: {integrity: sha512-WBoht+/GXzhmmLEVwwG0A0dIfwFBYZyW+hS4vrYW6SiEo49LlWmUFjhGGey5+8dnjdy1DGnzqp9GAAM4gOKOpA==}
+
+snapshots:
+
+  '@neutralinojs/lib@5.3.0': {}
